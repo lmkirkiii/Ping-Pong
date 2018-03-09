@@ -1,0 +1,10 @@
+body{
+  background-color: lightblue;
+}
+#result{
+  font-size: 20px;
+}
+#happy{
+  background-color: yellow;
+  border: 3px solid blue;
+}
