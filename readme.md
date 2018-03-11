@@ -49,9 +49,7 @@ Bootstrap.css
 4. It can turn any number divisible by 15 into "pingpong".
   * Example input: 15
   * Example output: [1,2,"ping",4,"pong","ping",7,8,"ping","pong",11,"ping",13,14,"pingpong"]
-5. It can turn any none number in to a mysterious surprise.
-  * Example input: "beep"
-  * Example out put: Mystery! 
+
 
 ### License
 

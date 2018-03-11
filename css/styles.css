@@ -1,10 +1,16 @@
 body{
   background-color: lightblue;
 }
+h3{
+  display: none;
+}
 #result{
   font-size: 20px;
 }
 #happy{
   background-color: yellow;
   border: 3px solid blue;
+}
+#crime{
+  display: none;
 }
