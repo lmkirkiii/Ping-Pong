@@ -36,6 +36,23 @@ Jquery-3.3.1
 
 Bootstrap.css
 
+### Specifications
+1. It can count up to any number by adding one.
+  * Example input: 3
+  * Example output: [1,2,3]
+2. It can turn any number in the sequence divisible by three into a "ping".
+  * Example input: 3
+  * Example output: [1,2,"ping"]
+3. It can turn any number divisible by five into a "pong".
+  * Example input: 5
+  * Example Output: [1,2,"ping",4,"pong"]
+4. It can turn any number divisible by 15 into "pingpong".
+  * Example input: 15
+  * Example output: [1,2,"ping",4,"pong","ping",7,8,"ping","pong",11,"ping",13,14,"pingpong"]
+5. It can turn any none number in to a mysterious surprise.
+  * Example input: "beep"
+  * Example out put: Mystery! 
+
 ### License
 
 Copyright(c) 2015 Lawrence Kirk.
